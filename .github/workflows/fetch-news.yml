@@ -1,0 +1,44 @@
+name: Fetch live news
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "content/sources.json"
+      - ".github/workflows/fetch-news.yml"
+      - "scripts/fetch-news.mjs"
+      - "package.json"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+
+      - name: Install deps
+        run: |
+          npm i --no-audit --no-fund
+          npm i --no-audit --no-fund rss-parser@^3.13.0
+
+      - name: Build live.json
+        run: npm run fetch:news
+
+      - name: Commit live.json if changed
+        run: |
+          if [[ -n "$(git status --porcelain content/live.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add content/live.json
+            git commit -m "chore(news): update live.json"
+            git push
+          else
+            echo "No changes."
+          fi

@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "https://www.reuters.com/world/africa/rss",
+    "https://www.france24.com/en/africa/rss"
+  ],
+  "keywords": ["Sahel","Niger","Mali","Burkina Faso","Chad","Mauritania","West Africa","Gulf of Guinea","Jihadist","Coups"]
+}
