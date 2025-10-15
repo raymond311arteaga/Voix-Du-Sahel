@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lead-001",
+    "category": "World",
+    "date": "2025-10-01",
+    "isHero": true,
+    "media": {
+      "type": "video",
+      "src": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+      "poster": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop"
+    },
+    "title": { "en": "Unrest Spreads in the Sahel Region", "fr": "" },
+    "excerpt": { "en": "Violence escalates across several countries as authorities struggle to respond.", "fr": "" },
+    "body": { "en": "This clip illustrates the situation on the ground. Authorities are responding while communities organize relief.", "fr": "" },
+    "photos": [
+      "https://images.unsplash.com/photo-1519681394180-36b7f8be7eb2?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1451188502541-13943edb6acb?q=80&w=800&auto=format&fit=crop"
+    ]
+  },
+  {
+    "id": "story-002",
+    "category": "Economy",
+    "date": "2025-09-22",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://images.unsplash.com/photo-1542228262-3d663b306a56?q=80&w=1200&auto=format&fit=crop",
+      "alt": "Market scene"
+    },
+    "title": { "en": "Economic Challenges Persist Despite Reforms", "fr": "" },
+    "excerpt": { "en": "Analysts say recovery will take time.", "fr": "" },
+    "body": { "en": "Experts outline structural hurdles and sectors poised for gradual growth.", "fr": "" },
+    "photos": [ "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=800&auto=format&fit=crop" ]
+  }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Voix du Sahel</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="wrap">
+    <div class="masthead">
+      <div class="brand">VOIX DU SAHEL</div>
+      <div class="lang-switch" role="group" aria-label="Language view">
+        <button data-lang="en" class="active" title="Show English">EN</button>
+        <button data-lang="fr" title="Show French">FR</button>
+        <button data-lang="both" title="Show English + French">EN+FR</button>
+      </div>
+    </div>
+    <nav>
+      <a href="#">HOME</a><a href="#">WORLD</a><a href="#">AFRICA</a>
+      <a href="#">ECONOMY</a><a href="#">POLITICS</a><a href="#">CULTURE</a>
+    </nav>
+  </header>
+
+  <main class="wrap grid" id="newsGrid">
+    <section id="mainColumn"></section>
+    <aside class="sidebar">
+      <div class="module">
+        <h3 data-i18n="about_title">About</h3>
+        <p class="excerpt" data-i18n="about_body">
+          Independent reporting from the Sahel region. Bilingual: English & French.
+        </p>
+      </div>
+      <div class="module">
+        <h3 data-i18n="latest_videos">Latest videos</h3>
+        <div id="videoList" class="excerpt">—</div>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="wrap">© <span id="year"></span> Voix du Sahel. All rights reserved.</footer>
+
+  <!-- Nada incrustado. Solo este script externo. -->
+  <script src="app.js"></script>
+</body>
+</html>
