@@ -1,35 +1,9 @@
 [
   {
-    "id": "d5f8d8ea-a8e1-11f0-8c1f-69339c3002f7",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-14T09:59:54.000Z",
-    "isHero": true,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/c725e664-a8e1-11f0-b433-005056bf30b7/w:1024/p:16x9/EN-20251014-084237-084442-CS-01.jpg",
-      "alt": "Landmark Lagos exhibition celebrates 'King of Afrobeat' Fela Kuti"
-    },
-    "title": {
-      "en": "Landmark Lagos exhibition celebrates 'King of Afrobeat' Fela Kuti",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "The \"King of Afrobeat\", \"Black President\", activist and legendary musician Fela Kuti has returned to his hometown and Nigeria's cultural capital Lagos through a landmark exhibition that celebrates…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/c725e664-a8e1-11f0-b433-005056bf30b7/w:1024/p:16x9/EN-20251014-084237-084442-CS-01.jpg"
-    ]
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cd071g83101o#3",
     "category": "BBC News",
     "date": "2025-10-09T15:00:11.000Z",
-    "isHero": false,
+    "isHero": true,
     "media": null,
     "title": {
       "en": "'Business is at a standstill' - Mali jihadists' fuel blockade hits the capital",
