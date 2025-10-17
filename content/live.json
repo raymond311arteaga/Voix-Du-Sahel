@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1760628409",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-17T02:30:00.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Maria Corina Machado: Venezuela’s Nobel Peace laureate in hiding",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Venezuela's opposition leader on life in hiding, and her movement's fight for transition and change.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cd071g83101o#3",
     "category": "BBC News",
     "date": "2025-10-09T15:00:11.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "'Business is at a standstill' - Mali jihadists' fuel blockade hits the capital",
