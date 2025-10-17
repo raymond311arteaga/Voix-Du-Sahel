@@ -44,25 +44,5 @@
     "photos": [
       "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg"
     ]
-  },
-  {
-    "id": "https://www.bbc.com/news/videos/cx23e9d5wjgo#5",
-    "category": "BBC News",
-    "date": "2025-09-24T16:35:58.000Z",
-    "isHero": false,
-    "media": null,
-    "title": {
-      "en": "Somalia's president: They tried to kill me five times",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Somalia's President Hassan Sheikh Mohamud says he is a prime target of the Islamist group al-Shabab.",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": []
   }
 ]
