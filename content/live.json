@@ -1,23 +1,29 @@
 [
   {
-    "id": "https://www.aljazeera.com/?t=1760628409",
-    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "date": "2025-10-17T02:30:00.000Z",
+    "id": "b900367c-ab46-11f0-b042-71ca454b1e80",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-17T10:52:29.000Z",
     "isHero": true,
-    "media": null,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg",
+      "alt": "After decades of conflict, Somalia is reviving its tourism industry"
+    },
     "title": {
-      "en": "Maria Corina Machado: Venezuela’s Nobel Peace laureate in hiding",
+      "en": "After decades of conflict, Somalia is reviving its tourism industry",
       "fr": ""
     },
     "excerpt": {
-      "en": "Venezuela's opposition leader on life in hiding, and her movement's fight for transition and change.",
+      "en": "Somalia is reviving its tourism industry - one trip at a time. After decades of conflict, hundreds of citizens are joining weekly excursions to explore the country’s natural beauty and cultural…",
       "fr": ""
     },
     "body": {
       "en": "",
       "fr": ""
     },
-    "photos": []
+    "photos": [
+      "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg"
+    ]
   },
   {
     "id": "https://www.bbc.com/news/articles/cd071g83101o#3",
