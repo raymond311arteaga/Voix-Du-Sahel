@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c0jd8lqzx31o#0",
+    "category": "BBC News",
+    "date": "2025-10-17T15:15:43.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Chad restores ties with wildlife charity linked to Prince Harry",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Chad had terminated its agreement with African Parks after accusing it of failing to curb poaching.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "b900367c-ab46-11f0-b042-71ca454b1e80",
     "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
     "date": "2025-10-17T10:52:29.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": {
       "type": "image",
       "src": "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg",
