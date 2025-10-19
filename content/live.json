@@ -18,5 +18,31 @@
       "fr": ""
     },
     "photos": []
+  },
+  {
+    "id": "b900367c-ab46-11f0-b042-71ca454b1e80",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-17T10:52:29.000Z",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg",
+      "alt": "After decades of conflict, Somalia is reviving its tourism industry"
+    },
+    "title": {
+      "en": "After decades of conflict, Somalia is reviving its tourism industry",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Somalia is reviving its tourism industry - one trip at a time. After decades of conflict, hundreds of citizens are joining weekly excursions to explore the country’s natural beauty and cultural…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg"
+    ]
   }
 ]
