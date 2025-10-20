@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c867342lde9o#0",
+    "category": "BBC News",
+    "date": "2025-10-20T11:25:32.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Nigerian police fire tear gas as protesters gather over separatist leader",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The protesters are seeking the release of Nnamdi Kanu who has been in detention since 2021 on terrorism charges.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c0jd8lqzx31o#0",
     "category": "BBC News",
     "date": "2025-10-17T15:15:43.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Chad restores ties with wildlife charity linked to Prince Harry",
