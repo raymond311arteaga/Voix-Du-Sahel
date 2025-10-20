@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1760951551",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-20T16:09:10.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Nigeria’s victims of #EndSARS protest violence await justice five years on",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Victims and families of protesters shot dead by security forces say promises of accountability, compensation not met.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c867342lde9o#0",
     "category": "BBC News",
     "date": "2025-10-20T13:54:07.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Nigerian police fire tear gas as protesters gather over separatist leader",
