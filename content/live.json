@@ -1,9 +1,35 @@
 [
   {
+    "id": "4a67d8c8-adf3-11f0-ac6d-632aa02ae324",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-20T20:28:07.000Z",
+    "isHero": true,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg",
+      "alt": "Nigerian police clash with protesters demanding release of Nnamdi Kanu"
+    },
+    "title": {
+      "en": "Nigerian police clash with protesters demanding release of Nnamdi Kanu",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "In Lagos, tensions have been boiling over as protesters demand the release of separatist leader Nnamdi Kanu. Police used tear gas on demonstrators while there were also reports of gunshots being…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg"
+    ]
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c867342lde9o#0",
     "category": "BBC News",
     "date": "2025-10-20T13:54:07.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Nigerian police fire tear gas as protesters gather over separatist leader",
