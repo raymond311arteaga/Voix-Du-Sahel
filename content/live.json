@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/clyl2gg2zx4o#0",
+    "category": "BBC News",
+    "date": "2025-10-21T15:51:19.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Passengers jump from windows in fatal Ethiopia train crash",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Fifteen people died in the night-time collision in the Somali region, officials tell the BBC.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "4a67d8c8-adf3-11f0-ac6d-632aa02ae324",
     "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
     "date": "2025-10-20T20:28:07.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": {
       "type": "image",
       "src": "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg",
