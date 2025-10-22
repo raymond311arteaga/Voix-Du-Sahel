@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c93dnd49l0jo#0",
+    "category": "BBC News",
+    "date": "2025-10-22T11:49:14.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Dozens killed in Nigeria fuel tanker explosion",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "People rushed to collect fuel from the overturned tanker when it suddenly exploded, engulfing them in flames.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cwy7j9z7e7no#0",
     "category": "BBC News",
     "date": "2025-10-22T07:19:17.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "'We fear for our souls' - Nigerian farmers need armed guards to protect them from jihadists",
@@ -31,26 +51,6 @@
     },
     "excerpt": {
       "en": "Deadly incidents involving petroleum products are common in Nigeria where fuel is transported by road.",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": []
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/c93dnd49l0jo#0",
-    "category": "BBC News",
-    "date": "2025-10-22T06:40:28.000Z",
-    "isHero": false,
-    "media": null,
-    "title": {
-      "en": "Dozens killed in Nigeria fuel tanker explosion",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "People rushed to collect fuel from the overturned tanker when it suddenly exploded, engulfing them in flames.",
       "fr": ""
     },
     "body": {
