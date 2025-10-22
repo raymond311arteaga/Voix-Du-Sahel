@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1761161694",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-22T20:19:27.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "US missionary abducted in Niger’s capital, State Department confirms",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The kidnapped man is a pilot for an evangelical organisation, a diplomatic source says.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c93dnd49l0jo#0",
     "category": "BBC News",
     "date": "2025-10-22T16:42:28.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Dozens killed in Nigeria fuel tanker explosion",
