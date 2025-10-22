@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cwy7j9z7e7no#0",
+    "category": "BBC News",
+    "date": "2025-10-22T07:19:17.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "'We fear for our souls' - Nigerian farmers need armed guards to protect them from jihadists",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Armed guards and special buses are increasingly used to coax terrified farmers back into growing food.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1761106854",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
     "date": "2025-10-22T06:44:27.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Nigerian fuel tanker explosion kills 35, road safety agency says",
