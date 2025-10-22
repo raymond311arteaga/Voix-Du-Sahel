@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c93dnd49l0jo#0",
+    "category": "BBC News",
+    "date": "2025-10-22T06:40:28.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Dozens killed in Nigeria fuel tanker explosion",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "People rushed to collect fuel from the overturned tanker when it suddenly exploded, engulfing them in flames.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/clyl2gg2zx4o#0",
     "category": "BBC News",
     "date": "2025-10-21T15:51:19.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Passengers jump from windows in fatal Ethiopia train crash",
