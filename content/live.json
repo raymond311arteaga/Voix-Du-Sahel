@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1761334465",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-24T21:19:44.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Four African countries taken off global money-laundering ‘grey list’",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "South Africa, Nigeria, Mozambique, Burkina Faso removed from Financial Action Task Force's financial crimes list.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1761333577",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
     "date": "2025-10-24T20:29:21.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Nigeria replaces top security officials days after coup plot denial",
