@@ -1,9 +1,35 @@
 [
   {
+    "id": "7c76b0ca-b0bc-11f0-92a2-6b34b1126ac7",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-24T10:08:33.000Z",
+    "isHero": true,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/42802dec-b0bc-11f0-bc7d-005056bfb2b6/w:1024/p:16x9/EN-20251023-183454-184924-CS.jpg",
+      "alt": "'Inequality & division: Ouattara offers 'stability at exclusion of Ivorians from electoral process'"
+    },
+    "title": {
+      "en": "'Inequality & division: Ouattara offers 'stability at exclusion of Ivorians from electoral process'",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Candidates in Ivory Coast’s presidential election held their final rallies as the campaign officially concluded in the West African nation of 30 million people. The country goes to the polls with…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/42802dec-b0bc-11f0-bc7d-005056bfb2b6/w:1024/p:16x9/EN-20251023-183454-184924-CS.jpg"
+    ]
+  },
+  {
     "id": "https://www.bbc.com/news/articles/ce864vqr564o#0",
     "category": "BBC News",
     "date": "2025-10-23T14:16:55.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Nigerian separatist leader sacks lawyers at start of his defence in court",
