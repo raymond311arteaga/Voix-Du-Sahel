@@ -1,9 +1,35 @@
 [
   {
+    "id": "9b9e8108-b1ca-11f0-894b-5545bd6a58a7",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-25T17:59:04.000Z",
+    "isHero": true,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg",
+      "alt": "Liberia says it will take Kilmar Abrego Garcia if US deports him"
+    },
+    "title": {
+      "en": "Liberia says it will take Kilmar Abrego Garcia if US deports him",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg"
+    ]
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1761382261",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
     "date": "2025-10-25T10:06:02.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Ivory Coast votes in key election that may extend leader Ouattara’s rule",
