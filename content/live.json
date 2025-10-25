@@ -1,16 +1,16 @@
 [
   {
-    "id": "https://www.aljazeera.com/?t=1761334465",
+    "id": "https://www.aljazeera.com/?t=1761382261",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "date": "2025-10-24T21:19:44.000Z",
+    "date": "2025-10-25T10:06:02.000Z",
     "isHero": true,
     "media": null,
     "title": {
-      "en": "Four African countries taken off global money-laundering ‘grey list’",
+      "en": "Ivory Coast votes in key election that may extend longtime leader’s rule",
       "fr": ""
     },
     "excerpt": {
-      "en": "South Africa, Nigeria, Mozambique, Burkina Faso removed from Financial Action Task Force's financial crimes list.",
+      "en": "Polls open in West African nation in heated election set to deliver fourth term to 83-year-old Alassane Ouattara.",
       "fr": ""
     },
     "body": {
@@ -20,17 +20,17 @@
     "photos": []
   },
   {
-    "id": "https://www.aljazeera.com/?t=1761333577",
+    "id": "https://www.aljazeera.com/?t=1761334465",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "date": "2025-10-24T20:29:21.000Z",
+    "date": "2025-10-24T21:19:44.000Z",
     "isHero": false,
     "media": null,
     "title": {
-      "en": "Nigeria replaces top security officials days after coup plot denial",
+      "en": "Four African countries taken off global money-laundering ‘grey list’",
       "fr": ""
     },
     "excerpt": {
-      "en": "Move by Nigeria's president comes after army denied rumours of coup plot amid reports military officers were arrested.",
+      "en": "South Africa, Nigeria, Mozambique, Burkina Faso removed from Financial Action Task Force's financial crimes list.",
       "fr": ""
     },
     "body": {
