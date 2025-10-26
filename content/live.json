@@ -1,87 +1,9 @@
 [
   {
-    "id": "9b9e8108-b1ca-11f0-894b-5545bd6a58a7",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-25T17:59:04.000Z",
-    "isHero": true,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg",
-      "alt": "Liberia says it will take Kilmar Abrego Garcia if US again deports him"
-    },
-    "title": {
-      "en": "Liberia says it will take Kilmar Abrego Garcia if US again deports him",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg"
-    ]
-  },
-  {
-    "id": "3524ba8e-b029-11f0-a604-5b2ab328e9ba",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-24T16:14:52.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/a0805c9e-b028-11f0-8f9a-005056a90284/w:1024/p:16x9/cap-2.png",
-      "alt": "Al Qaeda-linked jihadist group targets fuel convoys in Mali"
-    },
-    "title": {
-      "en": "Al Qaeda-linked jihadist group targets fuel convoys in Mali",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Al Qaeda-linked Group for the Support of Islam and Muslims (JNIM) has been targeting fuel convoys in Mali since September 2025. The attacks are causing fuel shortages at the pump, with long lines for…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/a0805c9e-b028-11f0-8f9a-005056a90284/w:1024/p:16x9/cap-2.png"
-    ]
-  },
-  {
-    "id": "7c76b0ca-b0bc-11f0-92a2-6b34b1126ac7",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-24T10:08:33.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/42802dec-b0bc-11f0-bc7d-005056bfb2b6/w:1024/p:16x9/EN-20251023-183454-184924-CS.jpg",
-      "alt": "'Inequality & division: Ouattara offers 'stability at exclusion of Ivorians from electoral process'"
-    },
-    "title": {
-      "en": "'Inequality & division: Ouattara offers 'stability at exclusion of Ivorians from electoral process'",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Candidates in Ivory Coast’s presidential election held their final rallies as the campaign officially concluded in the West African nation of 30 million people. The country goes to the polls with…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/42802dec-b0bc-11f0-bc7d-005056bfb2b6/w:1024/p:16x9/EN-20251023-183454-184924-CS.jpg"
-    ]
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cwy7j9z7e7no#2",
     "category": "BBC News",
     "date": "2025-10-22T07:19:17.000Z",
-    "isHero": false,
+    "isHero": true,
     "media": null,
     "title": {
       "en": "'We fear for our souls' - Nigerian farmers need armed guards to protect them from jihadists",
@@ -116,57 +38,5 @@
       "fr": ""
     },
     "photos": []
-  },
-  {
-    "id": "4a67d8c8-adf3-11f0-ac6d-632aa02ae324",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-20T20:28:07.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg",
-      "alt": "Nigerian police clash with protesters demanding release of Nnamdi Kanu"
-    },
-    "title": {
-      "en": "Nigerian police clash with protesters demanding release of Nnamdi Kanu",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "In Lagos, tensions have been boiling over as protesters demand the release of separatist leader Nnamdi Kanu. Police used tear gas on demonstrators while there were also reports of gunshots being…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg"
-    ]
-  },
-  {
-    "id": "b900367c-ab46-11f0-b042-71ca454b1e80",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-17T10:52:29.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg",
-      "alt": "After decades of conflict, Somalia is reviving its tourism industry"
-    },
-    "title": {
-      "en": "After decades of conflict, Somalia is reviving its tourism industry",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Somalia is reviving its tourism industry - one trip at a time. After decades of conflict, hundreds of citizens are joining weekly excursions to explore the country’s natural beauty and cultural…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/b310a5d0-ab46-11f0-8463-005056a90284/w:1024/p:16x9/EN-20251016-215451-215616-CS.jpg"
-    ]
   }
 ]
