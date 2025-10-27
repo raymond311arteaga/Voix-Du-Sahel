@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/cm2w0zpew0ko#0",
+    "category": "BBC News",
+    "date": "2025-10-27T08:19:11.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Mali shuts schools and universities as jihadist blockade worsens fuel crisis",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The education minister says the movement of staff and students has been affected by the scarcity of fuel.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "9b9e8108-b1ca-11f0-894b-5545bd6a58a7",
     "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
     "date": "2025-10-25T17:59:04.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": {
       "type": "image",
       "src": "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg",
