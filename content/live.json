@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1761547480",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-27T08:59:38.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Mali shuts schools as fuel blockade imposed by fighters paralyses country",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Military rulers order two-week closure for schools, universities as JNIM's fuel blockade causes further disruptions.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cm2w0zpew0ko#0",
     "category": "BBC News",
     "date": "2025-10-27T08:19:11.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Mali shuts schools and universities as jihadist blockade worsens fuel crisis",
