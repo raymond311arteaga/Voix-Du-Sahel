@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1761581756",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-27T17:30:58.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Mali court jails ex-PM Mara after online post backing political prisoners",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Former Prime Minister Moussa Mara found guilty of 'undermining' the state by Bamako court in military-ruled Mali.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cm2w0zpew0ko#0",
     "category": "BBC News",
     "date": "2025-10-27T08:19:11.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Mali shuts schools and universities as jihadist blockade worsens fuel crisis",
