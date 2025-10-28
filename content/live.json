@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1761671380",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-28T21:33:37.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Trump administration strips Nigerian Nobel winner Wole Soyinka of US visa",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The first African author to win the Nobel in literature, Soyinka has been an outspoken critic of governments worldwide.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "edca4204-b43c-11f0-a451-f361112089e5",
     "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
     "date": "2025-10-28T20:34:14.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": {
       "type": "image",
       "src": "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg",
