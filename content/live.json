@@ -1,29 +1,9 @@
 [
   {
-    "id": "https://www.aljazeera.com/?t=1761599814",
-    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-    "date": "2025-10-27T22:09:03.000Z",
-    "isHero": true,
-    "media": null,
-    "title": {
-      "en": "US judge asks for assurance Abrego Garcia won’t be deported to Liberia",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Trump administration is seeking to deport Abrego Garcia to West African country, in move decried by lawyers.",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": []
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cm2w0zpew0ko#0",
     "category": "BBC News",
     "date": "2025-10-27T08:19:11.000Z",
-    "isHero": false,
+    "isHero": true,
     "media": null,
     "title": {
       "en": "Mali shuts schools and universities as jihadist blockade worsens fuel crisis",
