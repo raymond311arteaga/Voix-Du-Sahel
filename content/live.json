@@ -1,9 +1,61 @@
 [
   {
+    "id": "edca4204-b43c-11f0-a451-f361112089e5",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-28T20:34:14.000Z",
+    "isHero": true,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg",
+      "alt": "Jihadists enforce a blockade on fuel in Mali"
+    },
+    "title": {
+      "en": "Jihadists enforce a blockade on fuel in Mali",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The U.S. Embassy in Mali told American citizens Tuesday to leave the country by plane because of the threats of terrorism and a severe fuel crisis stemming from a jihadi group's blockade of fuel…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg"
+    ]
+  },
+  {
+    "id": "f652f690-b438-11f0-a626-5922a1349a3d",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-28T20:26:09.000Z",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/68acfda4-b438-11f0-858a-005056a90284/w:1024/p:16x9/AP25280542791283.jpg",
+      "alt": "US embassy urges citizens in Mali to 'depart immediately' amid fuel blockade"
+    },
+    "title": {
+      "en": "US embassy urges citizens in Mali to 'depart immediately' amid fuel blockade",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The US embassy in Mali on Tuesday urged American citizens to \"depart immediately using commercial aviation\" as a fuel blockade by jihadists renders daily life increasingly dangerous. The al…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/68acfda4-b438-11f0-858a-005056a90284/w:1024/p:16x9/AP25280542791283.jpg"
+    ]
+  },
+  {
     "id": "72b20c32-b3f1-11f0-9eeb-ed4d63153430",
     "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
     "date": "2025-10-28T11:51:07.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": {
       "type": "image",
       "src": "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg",
@@ -95,32 +147,6 @@
     },
     "photos": [
       "https://s.france24.com/media/display/a0805c9e-b028-11f0-8f9a-005056a90284/w:1024/p:16x9/cap-2.png"
-    ]
-  },
-  {
-    "id": "7c76b0ca-b0bc-11f0-92a2-6b34b1126ac7",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-24T10:08:33.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/42802dec-b0bc-11f0-bc7d-005056bfb2b6/w:1024/p:16x9/EN-20251023-183454-184924-CS.jpg",
-      "alt": "'Inequality & division: Ouattara offers 'stability at exclusion of Ivorians from electoral process'"
-    },
-    "title": {
-      "en": "'Inequality & division: Ouattara offers 'stability at exclusion of Ivorians from electoral process'",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Candidates in Ivory Coast’s presidential election held their final rallies as the campaign officially concluded in the West African nation of 30 million people. The country goes to the polls with…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/42802dec-b0bc-11f0-bc7d-005056bfb2b6/w:1024/p:16x9/EN-20251023-183454-184924-CS.jpg"
     ]
   },
   {
