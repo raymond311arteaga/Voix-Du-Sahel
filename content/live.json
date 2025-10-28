@@ -1,9 +1,35 @@
 [
   {
+    "id": "72b20c32-b3f1-11f0-9eeb-ed4d63153430",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-28T11:51:07.000Z",
+    "isHero": true,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg",
+      "alt": "Mali closes schools due to fuel shortage"
+    },
+    "title": {
+      "en": "Mali closes schools due to fuel shortage",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Malian authorities announced on Sunday the suspension of classes in schools and universities for two weeks nationwide due to a fuel shortage. Since September, jihadists from JNIM have imposed a…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg"
+    ]
+  },
+  {
     "id": "https://www.bbc.com/news/articles/cm2w0zpew0ko#0",
     "category": "BBC News",
     "date": "2025-10-27T08:19:11.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Mali shuts schools and universities as jihadist blockade worsens fuel crisis",
@@ -136,31 +162,5 @@
       "fr": ""
     },
     "photos": []
-  },
-  {
-    "id": "4a67d8c8-adf3-11f0-ac6d-632aa02ae324",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-20T20:28:07.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg",
-      "alt": "Nigerian police clash with protesters demanding release of Nnamdi Kanu"
-    },
-    "title": {
-      "en": "Nigerian police clash with protesters demanding release of Nnamdi Kanu",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "In Lagos, tensions have been boiling over as protesters demand the release of separatist leader Nnamdi Kanu. Police used tear gas on demonstrators while there were also reports of gunshots being…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/2ddbc026-ae79-11f0-8c74-005056bfb2b6/w:1024/p:16x9/capture-181966290568f77bf8b48fd3-60095025.jpg"
-    ]
   }
 ]
