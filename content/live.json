@@ -138,52 +138,6 @@
     ]
   },
   {
-    "id": "9b9e8108-b1ca-11f0-894b-5545bd6a58a7",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-25T17:59:04.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg",
-      "alt": "Liberia says it will take Kilmar Abrego Garcia if US again deports him"
-    },
-    "title": {
-      "en": "Liberia says it will take Kilmar Abrego Garcia if US again deports him",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg"
-    ]
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cwy7j9z7e7no#3",
-    "category": "BBC News",
-    "date": "2025-10-22T07:19:17.000Z",
-    "isHero": false,
-    "media": null,
-    "title": {
-      "en": "'We fear for our souls' - Nigerian farmers need armed guards to protect them from jihadists",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Armed guards and special buses are increasingly used to coax terrified farmers back into growing food.",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": []
-  },
-  {
     "id": "https://www.bbc.com/sport/boxing/articles/c2emrrdgxv3o#4",
     "category": "BBC News",
     "date": "2025-10-21T17:58:35.000Z",
