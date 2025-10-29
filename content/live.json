@@ -144,32 +144,6 @@
     ]
   },
   {
-    "id": "3524ba8e-b029-11f0-a604-5b2ab328e9ba",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-24T16:14:52.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/a0805c9e-b028-11f0-8f9a-005056a90284/w:1024/p:16x9/cap-2.png",
-      "alt": "Al Qaeda-linked jihadist group targets fuel convoys in Mali"
-    },
-    "title": {
-      "en": "Al Qaeda-linked jihadist group targets fuel convoys in Mali",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Al Qaeda-linked Group for the Support of Islam and Muslims (JNIM) has been targeting fuel convoys in Mali since September 2025. The attacks are causing fuel shortages at the pump, with long lines for…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/a0805c9e-b028-11f0-8f9a-005056a90284/w:1024/p:16x9/cap-2.png"
-    ]
-  },
-  {
     "id": "https://www.bbc.com/news/articles/cwy7j9z7e7no#3",
     "category": "BBC News",
     "date": "2025-10-22T07:19:17.000Z",
