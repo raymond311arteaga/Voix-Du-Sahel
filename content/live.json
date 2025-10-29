@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/sport/football/articles/c5ydg19q4d3o#0",
+    "category": "BBC News",
+    "date": "2025-10-29T09:30:53.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Holders Nigeria lead qualifiers for 2026 Wafcon",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Reigning champions Nigeria qualify for next year's tournament alongside Cape Verde and Malawi who will make their Women's Africa Cup of Nations debut.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/news/articles/c24lzd32yjeo#0",
     "category": "BBC News",
     "date": "2025-10-29T06:58:14.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Nigerian Nobel laureate Wole Soyinka says US revoked his visa",
@@ -38,6 +58,110 @@
       "fr": ""
     },
     "photos": []
+  },
+  {
+    "id": "edca4204-b43c-11f0-a451-f361112089e5",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-28T20:34:14.000Z",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg",
+      "alt": "Jihadists enforce a blockade on fuel in Mali"
+    },
+    "title": {
+      "en": "Jihadists enforce a blockade on fuel in Mali",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The U.S. Embassy in Mali told American citizens Tuesday to leave the country by plane because of the threats of terrorism and a severe fuel crisis stemming from a jihadi group's blockade of fuel…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg"
+    ]
+  },
+  {
+    "id": "f652f690-b438-11f0-a626-5922a1349a3d",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-28T20:26:09.000Z",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/68acfda4-b438-11f0-858a-005056a90284/w:1024/p:16x9/AP25280542791283.jpg",
+      "alt": "US embassy urges citizens in Mali to 'depart immediately' over safety concerns"
+    },
+    "title": {
+      "en": "US embassy urges citizens in Mali to 'depart immediately' over safety concerns",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The US embassy in Mali on Tuesday urged American citizens to \"depart immediately using commercial aviation\" as a fuel blockade by jihadists renders daily life increasingly dangerous. The al…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/68acfda4-b438-11f0-858a-005056a90284/w:1024/p:16x9/AP25280542791283.jpg"
+    ]
+  },
+  {
+    "id": "72b20c32-b3f1-11f0-9eeb-ed4d63153430",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-28T11:51:07.000Z",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg",
+      "alt": "Mali closes schools due to fuel shortage"
+    },
+    "title": {
+      "en": "Mali closes schools due to fuel shortage",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Malian authorities announced on Sunday the suspension of classes in schools and universities for two weeks nationwide due to a fuel shortage. Since September, jihadists from JNIM have imposed a…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg"
+    ]
+  },
+  {
+    "id": "9b9e8108-b1ca-11f0-894b-5545bd6a58a7",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-10-25T17:59:04.000Z",
+    "isHero": false,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg",
+      "alt": "Liberia says it will take Kilmar Abrego Garcia if US again deports him"
+    },
+    "title": {
+      "en": "Liberia says it will take Kilmar Abrego Garcia if US again deports him",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Liberia, a west African nation founded to take in freed American slaves, has said it would be willing to accept Salvadoran national Kilmar Abrego Garcia if the US deports him. The US wrongly deported…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/3c01ef16-b1c8-11f0-9081-005056a90284/w:1024/p:16x9/2025-10-24T195635Z-1833610172-RC2BEGARJA9M-RTRMADP-3-USA-TRUMP-MIGRATION-ABREGO.jpg"
+    ]
   },
   {
     "id": "https://www.bbc.com/news/articles/cwy7j9z7e7no#3",
