@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.bbc.com/news/articles/c24lzd32yjeo#0",
+    "category": "BBC News",
+    "date": "2025-10-29T06:58:14.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Nigerian Nobel laureate Wole Soyinka says US revoked his visa",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "The 91-year-old Nobel laureate in literature has been a critic of Trump's immigration policy.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1761671380",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
     "date": "2025-10-28T21:33:37.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Trump administration strips Nigerian Nobel winner Wole Soyinka of US visa",
@@ -96,26 +116,6 @@
     "photos": [
       "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg"
     ]
-  },
-  {
-    "id": "https://www.bbc.com/news/articles/cm2w0zpew0ko#0",
-    "category": "BBC News",
-    "date": "2025-10-27T08:19:11.000Z",
-    "isHero": false,
-    "media": null,
-    "title": {
-      "en": "Mali shuts schools and universities as jihadist blockade worsens fuel crisis",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "The education minister says the movement of staff and students has been affected by the scarcity of fuel.",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": []
   },
   {
     "id": "9b9e8108-b1ca-11f0-894b-5545bd6a58a7",
