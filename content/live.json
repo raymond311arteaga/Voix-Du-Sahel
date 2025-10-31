@@ -112,32 +112,6 @@
     ]
   },
   {
-    "id": "72b20c32-b3f1-11f0-9eeb-ed4d63153430",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-28T11:51:07.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg",
-      "alt": "Mali closes schools due to fuel shortage"
-    },
-    "title": {
-      "en": "Mali closes schools due to fuel shortage",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "Malian authorities announced on Sunday the suspension of classes in schools and universities for two weeks nationwide due to a fuel shortage. Since September, jihadists from JNIM have imposed a…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/6d67ed78-b3f1-11f0-a07c-005056bf30b7/w:1024/p:16x9/EN-20251027-215243-215433-CS.jpg"
-    ]
-  },
-  {
     "id": "https://www.bbc.com/sport/boxing/articles/c2emrrdgxv3o#4",
     "category": "BBC News",
     "date": "2025-10-21T17:58:35.000Z",
