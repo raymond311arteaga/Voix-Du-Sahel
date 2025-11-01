@@ -1,9 +1,29 @@
 [
   {
+    "id": "https://www.aljazeera.com/?t=1761941784",
+    "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+    "date": "2025-10-31T23:28:47.000Z",
+    "isHero": true,
+    "media": null,
+    "title": {
+      "en": "Trump places Nigeria on watch list over claims of anti-Christian violence",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Allegation that Nigerian Christians face 'existential threat' seems to mirror contested claims by right-wing lawmakers.",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": []
+  },
+  {
     "id": "https://www.bbc.com/sport/football/articles/c5ydg19q4d3o#4",
     "category": "BBC News",
     "date": "2025-10-29T09:30:53.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Holders Nigeria lead qualifiers for 2026 Wafcon",
