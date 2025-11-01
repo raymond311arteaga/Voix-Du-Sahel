@@ -1,9 +1,35 @@
 [
   {
+    "id": "d284097a-b6ef-11f0-81ad-45f08ff56460",
+    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
+    "date": "2025-11-01T06:56:42.000Z",
+    "isHero": true,
+    "media": {
+      "type": "image",
+      "src": "https://s.france24.com/media/display/af2f7d48-b6ee-11f0-81f3-005056bfb2b6/w:1024/p:16x9/AP25303447498162.jpg",
+      "alt": "Tanzania President Hassan wins disputed election amid deadly protests"
+    },
+    "title": {
+      "en": "Tanzania President Hassan wins disputed election amid deadly protests",
+      "fr": ""
+    },
+    "excerpt": {
+      "en": "Tanzanian President Samia Suluhu Hassan won a landslide election victory, official results showed Saturday. The opposition Chadema party, barred from taking part in the poll, said that hundreds of…",
+      "fr": ""
+    },
+    "body": {
+      "en": "",
+      "fr": ""
+    },
+    "photos": [
+      "https://s.france24.com/media/display/af2f7d48-b6ee-11f0-81f3-005056bfb2b6/w:1024/p:16x9/AP25303447498162.jpg"
+    ]
+  },
+  {
     "id": "https://www.aljazeera.com/?t=1761941784",
     "category": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
     "date": "2025-10-31T23:28:47.000Z",
-    "isHero": true,
+    "isHero": false,
     "media": null,
     "title": {
       "en": "Trump places Nigeria on watch list over claims of anti-Christian violence",
