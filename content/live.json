@@ -46,32 +46,6 @@
     "photos": []
   },
   {
-    "id": "edca4204-b43c-11f0-a451-f361112089e5",
-    "category": "Breaking news from AFRICA, Maghreb and Sub-Saharan Africa - France 24",
-    "date": "2025-10-28T20:34:14.000Z",
-    "isHero": false,
-    "media": {
-      "type": "image",
-      "src": "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg",
-      "alt": "Jihadists enforce a blockade on fuel in Mali"
-    },
-    "title": {
-      "en": "Jihadists enforce a blockade on fuel in Mali",
-      "fr": ""
-    },
-    "excerpt": {
-      "en": "The U.S. Embassy in Mali told American citizens Tuesday to leave the country by plane because of the threats of terrorism and a severe fuel crisis stemming from a jihadi group's blockade of fuel…",
-      "fr": ""
-    },
-    "body": {
-      "en": "",
-      "fr": ""
-    },
-    "photos": [
-      "https://s.france24.com/media/display/b331a132-b43c-11f0-88e5-005056bf30b7/w:1024/p:16x9/EN-20251028-211742-212321-CS.jpg"
-    ]
-  },
-  {
     "id": "https://www.bbc.com/sport/boxing/articles/c2emrrdgxv3o#4",
     "category": "BBC News",
     "date": "2025-10-21T17:58:35.000Z",
